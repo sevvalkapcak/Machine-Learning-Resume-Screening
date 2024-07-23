@@ -1,4 +1,4 @@
-# Makine Öğrenmesi ile Özgeçmiş Tarayıcı Sonuçları
+# Resume Screening with Machine Learning
 
 ![4](https://github.com/sevvalkapcak/Machine-Learning-Resume-Screening/blob/main/makine%20%C3%B6%C4%9Frenmesi%20proje/sonu%C3%A7/4.png)
 ***
